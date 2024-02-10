@@ -18,8 +18,8 @@
 - 👩‍💻 Full-stack developer
 - 🔄 Scrum Master
 - 🔄 Product Owner
-- 📊 Agile Project Manager
 
+<!--
 🚀 Apasionado por apoyar maduración de Equipos,
    genero valor a clientes y partes interesadas,
    optimizo para aumentar la sostenibilidad y agilidad.
@@ -29,7 +29,7 @@
 
 - Actualmente trabajando en algo genial! 🌟
 - En busca de colaborar en un proyecto cool. 🚀
-
+-->
 
 ### Desarrollo Web
 
@@ -40,16 +40,16 @@
 [![Gmail Badge](https://img.shields.io/badge/-GMAIL-c71610?style=flat&logo=Gmail&logoColor=white)](mailto:mdvfz77@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mavafigalloz/ "Connect on LinkedIn")
 
-<img src="https://avatars.githubusercontent.com/u/110190770?v=4" border-radius="50px" align="left" height="275" />
+<img src="https://avatars.githubusercontent.com/u/110190770?v=4" align="left" height="275" />
 
  ## 💬 Ask me about:
 
   - 👩‍💻 Full-stack developer
-  - 🔄 Agile Coach
+
   - 🔄 Scrum Master
   - 🔄 Product Owner
-  - 📊 Agile Project Manager
 
+<!--
   🚀 I am passionate about supporting maturation of teams,
   I generate value for clients and stakeholders,
   I optimize to increase sustainability and agility.
@@ -60,7 +60,7 @@
   - I am looking for a collaborative and interesting project. 🚀
 
   ### Web Developer
-
+-->
 
 
 # endPage

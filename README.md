@@ -12,7 +12,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-GMAIL-c71610?style=flat&logo=Gmail&logoColor=white)](mailto:mdvfz77@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mavafigalloz/ "Connect on LinkedIn")
 
-<img src="https://avatars.githubusercontent.com/u/110190770?v=4" align="right" height="275" />
+
 
 ## 💬 Pregúntame sobre
 
@@ -41,7 +41,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-GMAIL-c71610?style=flat&logo=Gmail&logoColor=white)](mailto:mdvfz77@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mavafigalloz/ "Connect on LinkedIn")
 
-<img src="https://avatars.githubusercontent.com/u/110190770?v=4" align="left" height="275" />
+
 
  ## 💬 Ask me about:
 
